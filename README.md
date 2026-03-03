@@ -1,6 +1,6 @@
 # 👋 Привет! Меня зовут Давид
 
-Я **веб-разработчик** из 🇦🇲 Армении с **3+ годами опыта**. Делаю **адаптивные**, **быстрые** и **интерактивные** интерфейсы, уделяю внимание **UX**, **оптимизации** и чистой архитектуре.  
+Я **веб-разработчик** из 🇦🇲 Армении с **3+ годами опыта**. Делаю **адаптивные**, **быстрые** и **интерактивные** интерфейсы, уделяю внимание **UX**, **оптимизации** и чистой архитектуре.
 
 ---
 
@@ -15,9 +15,17 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### Backend / DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white)
+
+### Python / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -27,14 +35,17 @@
 - Разрабатываю **SPA** на **React**
 - Оптимизирую производительность: **скорость загрузки, лёгкая верстка, чистый код**
 - Подключаю API, работаю с данными, формами и состоянием
+- Делаю backend на **Node.js (Express)**: REST API, роутинг, middleware, интеграция с фронтендом
 - Работаю с базами данных (**MySQL**, **phpMyAdmin**), интегрирую с **PHP**
+- Использую **Python** для автоматизации и задач с данными
+- Изучаю и применяю **Machine Learning** (базовая обработка данных, обучение моделей, классификация)
 - Перевожу дизайн из **Figma** в готовый интерфейс
 
 ---
 
 ## 📌 Мой подход
 
-- Чистая структура проекта и понятные компоненты  
+- Чистая структура проекта и понятные компоненты
 - Максимально **практичные решения** без “перегруза”
 - Постоянно учусь и внедряю новые инструменты в работу
 
