@@ -51,11 +51,6 @@
 
 ---
 
-## 📈 GitHub статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidwebam&show_icons=true&theme=radical)
-
----
-
 ## 📫 Контакты
 - Портфолио/сайт: https://davidwebam.github.io/david-voskanyan.github.io/
 - GitHub: https://github.com/davidwebam
