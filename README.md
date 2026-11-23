@@ -1,14 +1,32 @@
 # 👋 Привет! Меня зовут Давид
 
-Я **веб-разработчик** из 🇦🇲 Армении. Изучаю программирование уже **4 года**. Делаю **адаптивные**, **быстрые** и **интерактивные** интерфейсы, уделяю особое внимание **UX**, **оптимизации** и чистой архитектуре.
+Я **ML-инженер** и **веб-разработчик** из 🇦🇲 Армении.
 
-📚 В свободное время люблю читать книги, а на данный момент активно углубляюсь в изучение **математики**.
+## 🧑‍💻 О себе
+- Изучаю программирование и разработку программного обеспечения уже **4 года**.
+- Основной фокус — **Machine Learning** и работа с данными, а также создание полноценных веб-приложений.
+- Проектирую и обучаю модели машинного обучения с использованием **Python**, **PyTorch**, **TensorFlow** и **scikit-learn**.
+- Занимаюсь обработкой, анализом и подготовкой данных с помощью **NumPy** и **Pandas**.
+- Разрабатываю **адаптивные**, **быстрые** и **интерактивные** веб-интерфейсы на **React** и чистом **JavaScript**.
+- Создаю надёжную серверную логику, REST API и проектирую базы данных на **Node.js**, **Express**, **PHP** и **MySQL**.
+- Уделяю особое внимание чистой архитектуре, оптимизации производительности и продуманному **UX**.
+- На данный момент активно углубляюсь в изучение **математики** для более глубокого понимания алгоритмов ML и анализа данных.
+- В свободное время люблю читать книги по саморазвитию, психологии, стратегии и техническую литературу.
+- Постоянно развиваю свои инженерные навыки, тестирую новые инструменты и применяю их на практике.
 
 > **Примечание:** На данный момент все мои основные проекты закрыты (private).
 
 ---
 
 ## 🚀 Технологии
+
+### Python / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -24,14 +42,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white)
-
-### Python / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ---
 
