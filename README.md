@@ -42,8 +42,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white)
 
----
-
-## 📫 Контакты
-- Портфолио/сайт: https://davidwebam.github.io/david-voskanyan.github.io/
-- GitHub: https://github.com/davidwebam
